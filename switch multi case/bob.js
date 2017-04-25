@@ -1,3 +1,4 @@
+// this is solution to 'bob' excersise from exercism.io
 var Bob = function() {
 
 };
