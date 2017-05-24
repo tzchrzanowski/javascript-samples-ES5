@@ -14,9 +14,7 @@ if (result) {
     }
 }
 if (result) {
-	var issueDate = '';
 	var now = new Date();
-	// console.log(now);
 	now.setHours(0,0,0);
 	date.setHours(0,0,1);
 	if(date < now){
